@@ -1,0 +1,7 @@
+{
+  "name": "THEBOOK_GRUPO01",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
